@@ -15,3 +15,6 @@ title: 提升记忆力的方法
 
 **for 小鱼子**
 
+#### 参考资料
+- http://www.bbc.com/future/story/20180208-an-effortless-way-to-strengthen-your-memory
+
