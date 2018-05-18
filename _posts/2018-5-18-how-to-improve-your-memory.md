@@ -1,5 +1,7 @@
-
-### If you are interested in further, low-effort ways to boost your recall, you may benefit from the following strategies:
+---
+layout: post
+title: 提升记忆力的方法
+---
 
 - Test yourself. So-called “retrieval practice” – actively forcing yourself to remember information – is far more effective than passive reading.
 - “Space” your studies, leaving a few weeks between the times you revisit material. Indeed, it’s often better to wait until you are on the cusp of forgetting the material to avoid “overlearning”.
@@ -11,5 +13,5 @@
 - 和自己说话. 仅仅描述一件事就能加深它在到大脑中的记忆。
 - 给记忆添加变化. 有时候对记忆中的事物添加变化对记忆力很有好处, 这个过程让记忆中的不同事物产生“交错”，大脑中的不同事物就可以联系起来。
 
-for 小鱼子
+**for 小鱼子**
 
